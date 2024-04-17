@@ -7830,9 +7830,16 @@
 |✔||✔||✔
 |-
 |''[[Gran Turismo 3 A-Spec]]''
-|[[Polyphony Digital]]
-|[[Sony Computer Entertainment]]
-|2001-04-28<sup>JP</sup>
+[Polyphony Digital
+|Sony Computer Entertainment
+|JP|SCEI|SCPS-15009|04/28/01|Gran Turismo 3 A-spec
+|US|SCEA|SCUS-97102|07/09/01|E|Gran Turismo 3: A-Spec
+|US|SCEA|PBPX-95503|07/10/01|E|Gran Turismo 3: A-Spec (GT3 Racing Pack)
+|EU|SCEE|SCES-50294|07/20/01|3+|Gran Turismo 3 A-spec
+|JP|SCEI|SCPS-72001|12/13/01|Gran Turismo 3 A-spec (Mega Hits!)
+|EU|SCEE|SCES-50294/P|03/01/02|3+|Gran Turismo 3 A-spec (Platinum)
+|US|SCEA|SCUS-97102|711719710226|07/09/02|E|Gran Turismo 3: A-Spec (Greatest Hits)
+|-
 |✔||✔||✔
 |-
 |''[[Gran Turismo 4]]''
@@ -15841,11 +15848,18 @@
 |2001-03-15<sup>JP</sup>
 |✔||||✔
 |-
-|''[[Ōkami]]''
-|[[Clover Studio]]
-|[[Capcom]]
-|2006-04-20<sup>JP</sup>
-|✔<sup>JP,KO</sup>||✔||✔
+|''[[Okami]]''
+|Clover Studio
+|Capcom
+|JP|Capcom|SLPM-66375|04/20/06|A|Ookami
+|US|Capcom|SLUS-21115|09/19/06|T|Okami
+|KO|Capcom|SCKA-20095|11/09/06|ALL|Okami (English Version)
+|KO|Capcom|SCKA-20095|11/09/06|ALL|Ookami (Japanese Version)
+|JP|Capcom|SLPM-74239|12/14/06|A|Ookami (PlayStation 2 the Best)
+|EU|Capcom|SLES-54439|02/09/07|12+|Okami (French)
+|EU|Capcom|SLES-54439|02/09/07|12+|Okami (UK)
+|AU|Capcom|SLES-54439|02/14/07|M|Okami
+|US|Capcom|SLUS-21115GH|09/02/08|T|Okami (Greatest Hits)
 |-
 |''[[Ōokuki]]''
 |[[GAE (company)|Global A]]
