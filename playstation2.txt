@@ -7831,7 +7831,6 @@
 |-
 |''[[Gran Turismo 3 A-Spec]]''
 [Polyphony Digital
-|Sony Computer Entertainment
 |JP|SCEI|SCPS-15009|04/28/01|Gran Turismo 3 A-spec
 |US|SCEA|SCUS-97102|07/09/01|E|Gran Turismo 3: A-Spec
 |US|SCEA|PBPX-95503|07/10/01|E|Gran Turismo 3: A-Spec (GT3 Racing Pack)
@@ -15850,7 +15849,6 @@
 |-
 |''[[Okami]]''
 |Clover Studio
-|Capcom
 |JP|Capcom|SLPM-66375|04/20/06|A|Ookami
 |US|Capcom|SLUS-21115|09/19/06|T|Okami
 |KO|Capcom|SCKA-20095|11/09/06|ALL|Okami (English Version)
@@ -17622,9 +17620,10 @@
 |✔||✔||✔
 |-
 |''[[Quake III Revolution]]''
-|[[Bullfrog Productions]]
-|[[Electronic Arts]]<sup>EU,NA</sup>, [[Square EA]]<sup>JP</sup>
-|2001-03-26<sup>NA</sup>
+|Bullfrog Productions
+|US|Electronic Arts|SLUS-20167|03/26/01|M|Quake III Revolution
+|EU|Electronic Arts|SLES-50126|04/06/01|Quake III Revolution
+|JP|Square EA|SLPS-20108|08/30/01|Quake III Revolution
 |✔||✔||✔
 |-
 |''[[Quartet! The Stage of Love]]''
