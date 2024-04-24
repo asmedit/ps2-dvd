@@ -25,6 +25,7 @@ Polyphony Digital
 |US|SCUS-97102|2002-07-09|Gran Turismo 3: A-Spec (Greatest Hits)
 |US|PBPX-95503|2001-07-10|Gran Turismo 3: A-Spec (Bundle)
 |AU|SCES-50294|2001-07-10|Gran Turismo 3: A-spec (Original,Platinum,Bundle)
+|EU|SCES-50294|2001-07-10|Gran Turismo 3: A-spec (Original,Platinum,Bundle)
 
 Gran Turismo Concept: 2001 Tokyo
 Polyphony Digital

@@ -8,7 +8,7 @@ defmodule PS2 do
                  [_title,_studio|discs] = String.split(x,"\n")
 #                 :io.format('~ts: [~ts]~n',[studio,title])
                  :lists.foldl(fn y, _cc ->
-                    :io.format('Disc: ~ts~n',[y])
+                    :io.format('~ts~n',[y])
                  end, 0, discs)
                  length(discs) + xcc
          end, 0,  String.split(bin, "\n\n"))
