@@ -1,71 +1,97 @@
 Gran Turismo 2000
 Polyphony Digital
-|JP|PAPX-90203|PlayStation Festival 2000 (Taikenban)
+|JP|PAPX-90203|2000-02-13|Gran Turismo 2000 (PlayStation Festival 2000)
 
-Gran Turismo 3: A-Spec: Replay Theater
+Gran Turismo 3: A-Spec (Replay Theater)
 Polyphony Digital
-|JP|PAPX-90207|2000-09-26|オートバックス限定リプレイシアター|Autobacs Gentei Replay Theater
-|JP|PAPX-90208|2000-10-05|リプレイシアタ|Replay Theater
-|JP|PAPX-90209|2000-10-10|Netz Toyota: Replay Theater Disc
+|JP|PAPX-90207|2000-09-26|Gran Turismo 3: A-Spec (Autobacs Gentei Replay Theater)
+|JP|PAPX-90208|2000-10-05|Gran Turismo 3: A-Spec (Replay Theater)
+|JP|PAPX-90209|2000-10-10|Gran Turismo 3: A-Spec (Netz Toyota: Replay Theater Disc)
+
+Gran Turismo 3: A-Spec (Demo)
+Polyphony Digital
+|US|SCUS-97115|2000-10-30|Gran Turismo 3: A-spec (Demo)
+|JP|PCPX-96311|2000-10-10|Gran Turismo 3: A-spec (Tentou Shiyuu Disc, vol.1)
+|JP|PCPX-96312|2000-10-10|Gran Turismo 3: A-spec (Autobacs Tentou Shiyuu Disc)
+|JP|PCPX-96609|2001-01-11|Gran Turismo 3: A-spec (Tentou Shiyuu Disc, vol.2)
+|US|SCUS-97219|2002-05-01|Gran Turismo 3: A-spec (Nissan 350Z Edition)
 
 Gran Turismo 3: A-Spec
 Polyphony Digital
-|JP|SCPS-15009|PBPX-95502|SCPS-55007|SCPS-72001|2001-04-19|Gran Turismo 3: A-spec
-|US|SCUS-97115|2000-10-30|Demo
-|US|SCUS-97512|SCUS-97102|2001-05-30|Gran Turismo 3: A-Spec (Greatest Hits)
-|US|PBPX-95503|2001-07-10|Gran Turismo 3: A-Spec (GT3 Racing Pack)
-|EU|SCES-50294|2001-07-10|Gran Turismo 3: A-spec
-|JP|SCPS-72001|2001-12-13|Gran Turismo 3: A-spec (Mega Hits!)
-|JP|PCPX-96311|2000-10-10|Tentou Shiyuu Disc
-|JP|PCPX-96609|2001-01-11|店頭試遊ディスク|Tentou Shiyuu Disc (Vol. 2)
-|JP|PCPX-96312|オートバックス店頭試遊ディスク|Autobacs Tentou Shiyuu Disc
-|EU|SCES-50294|SCES-50294-ANZ/P|SCES-50294-P|2001-06-20|Gran Turismo: 3 A-spec (Platinum)
+|JP|PBPX-95502|2001-04-19|Gran Turismo 3: A-spec (Bundle)
+|JP|SCPS-72001|2001-04-19|Gran Turismo 3: A-spec (Mega Hits!)
+|JP|SCPS-15009|2001-04-28|Gran Turismo 3: A-spec (Original)
+|US|SCUS-97512|2001-05-30|Gran Turismo 3: A-Spec (Greatest Hits)
+|US|SCUS-97102|2002-07-09|Gran Turismo 3: A-Spec (Greatest Hits)
+|US|PBPX-95503|2001-07-10|Gran Turismo 3: A-Spec (Bundle)
+|AU|SCES-50294|2001-07-10|Gran Turismo 3: A-spec (Original,Platinum,Bundle)
 
 Gran Turismo Concept: 2001 Tokyo
 Polyphony Digital
-|JP|PCPX-96624|SCPS-15010|SCPS-15010|SCPS-19208|SCPS-55005|2001-12-09|Tentou-you Disc
+|JP|SCPS-15010|2001-12-09|Gran Turismo Concept: 2001 Tokyo (Original)
+|JP|PCPX-96624|2001-12-09|Gran Turismo Concept: 2001 Tokyo (Tentou-you Disc)
+|JP|SCPS-19208|2001-12-09|Gran Turismo Concept: 2001 Tokyo (Best Edition)
+|JP|SCPS-55005|2001-12-09|Gran Turismo Concept: 2001 Tokyo (ぐらんつーりすも こんせぷと)
 
 Gran Turismo Concept: 2002 Tokyo-Geneva
 Polyphony Digital
-|EU|SCES-50858|SCES-50858/P|2002-06-20|Platinum
+|EU|SCES-50858|2002-06-20|Gran Turismo Concept: 2002 Tokyo-Geneva (Platinum)
+|CH|SCPS-55902|2002-06-26|Gran Turismo Concept: 2002 Tokyo-Geneva (Original)
+|CH|SCPS-55903|2002-06-26|Gran Turismo Concept: 2002 Tokyo-Geneva (Original)
 
 Gran Turismo Concept: 2002 Tokyo-Seoul
 Polyphony Digital
-|KO|SCKA-20029|SCPS-56005|2002-06-26|BigHit Series
+|KO|SCPS-56005|2002-03-20|Gran Turismo Concept: 2002 Tokyo-Seoul (Original)
+|KO|SCKA-20029|2002-06-26|Gran Turismo Concept: 2002 Tokyo-Seoul (BigHit Series)
 
-Gran Turismo Concept: Copen Special Edition
+Gran Turismo Concept
 Polyphony Digital
-|JP|SCPM-85301|
+|EU|SCED-51097|2002-06-23|Gran Turismo Concept: Nissan Z
+|EU|SCED-51352|2002-12-16|Gran Turismo Concept: Nissan Micra Edition
+|EU|SCED-51352|2002-12-16|Gran Turismo Concept: Nissan Micra Edition (Rev. 2)
+|JP|SCPM-85301|2002-03-27|Gran Turismo Concept: Copen Special Edition (Taikenban)
+|JP|PAPX-90504|2002-05-16|Gran Turismo Concept: Airtrek Turbo Special Edition
+|JP|PCPX-96634|2003-05-17|Gran Turismo Concept: Subaru Driving Simulator Version
 
-Gran Turismo: Nissan Micra Edition
+Gran Turismo 4 (Demo)
 Polyphony Digital
-|EU|SCED-51352|2002-12-16|DVD-5|Gran Turismo: Nissan Micra Edition
-|EU|SCED-51352#2|2002-12-16|DVD-5|Gran Turismo: Nissan Micra Edition (Rev. 2)
+|JP|PAPX-90508|2003-04-01|Gran Turismo 4: Lupo GTI Cup Japan 1
+|JP|PAPX-90509|2003-04-01|Gran Turismo 4: Lupo GTI Cup Japan 2
+|JP|PAPX-90512|2003-09-25|Gran Turismo 4: Prius Trial Version
+|EU|SCED-52578|2004-06-18|Gran Turismo 4: BMW 1 Series Virtual Drive Dealership
+|EU|SCED-52681|2004-06-18|Gran Turismo 4: BMW 1 Series Virtual Drive
+|JP|SCUS-97483|2005-02-21|Gran Turismo 4: Mazda MX-5 Edition
 
-Gran Turismo Concept: Airtrek Turbo Special Edition
+Gran Turismo 4: Prologue
 Polyphony Digital
-|JP|PAPX-90504|PAPX 90504|Taikenban
+|EU|SCED-52455|2004-02-17|Gran Turismo 4: Prologue (Special Edition 2004 Geneva Version)
+|US|SCUS-97384|2004-03-13|Gran Turismo 4: Prologue (Special Edition 2004 Toyota Demo)
+|EU|SCES-52438|2004-04-13|Gran Turismo 4: Prologue (Promo)
+|CH|SCAJ-20066|2003-11-23|Gran Turismo 4: Prologue (Asia)
+|JP|PBPX-95523|2003-11-19|Gran Turismo 4: Prologue (Racing Pack Doukonban)
+|JP|PBPX-95524|2003-11-22|Gran Turismo 4: Prologue (Racing Pack)
+|JP|SCPS-15055|2003-11-19|Gran Turismo 4: Prologue (Original)
+|JP|SCPS-19304|2003-11-19|Gran Turismo 4: Prologue (Best Edition)
+|EU|SCES-52438|2004-04-13|Gran Turismo 4: Prologue (Original, Promo)
+|KO|SCKA-20022|2003-12-10|Gran Turismo 4: Prologue (Racing Pack)
 
-Gran Turismo: Subaru Driving Simulator Version
+Gran Turismo 4: First Preview
 Polyphony Digital
-|JP|PCPX-96634|2003-05-17|Taikenban
+|JP|PCPX-96649|2004-09-20|Gran Turismo 4: First Preview
+|JP|SCPM-85304|2004-09-20|Gran Turismo 4: First Preview (PlayStation Vol. 9)
 
-Gran Turismo 4: Lupo Cup Training Version
+Gran Turismo 4
 Polyphony Digital
-|JP|PAPX-90508|
-
-Gran Turismo 4: Prius Trial Version
-Polyphony Digital
-|JP|PAPX-90512|2003-09-25|Taikenban
-
-Gran Turismo Special Edition 2004 Geneva Version
-Polyphony Digital
-|EU|SCED-52455|2004-02-17|Demo
-
-Gran Turismo 4 (BMW 1 Series Virtual Drive Dealership)
-Polyphony Digital
-|EU|SCED-52578/G|2004-06-18|Demo
-
-Gran Turismo 4 (BMW 1 Series Virtual Drive)
-Polyphony Digital
-|EU|SCED-52681/G|2004-06-18|Demo
+|CH|SCAJ-30007|2004-12-15|Gran Turismo 4 (Original)
+|CH|SCAJ-30008|2004-12-15|Gran Turismo 4 (The Best)
+|JP|PBPX-95601|2004-12-17|Gran Turismo 4 (Racing Pack Doukonban)
+|CH|SCPS-19252|2004-12-17|Gran Turismo 4 (Original)
+|CH|SCAJ-30006|2004-12-17|Gran Turismo 4 (Original)
+|CH|SCPS-17001|2004-12-17|Gran Turismo 4 (Original)
+|AU|SCES-51719|2005-01-26|Gran Turismo 4 (Original)
+|US|SCUS-97563|2005-01-27|Gran Turismo 4 (Original)
+|KO|SCKA-30001|2005-01-30|Gran Turismo 4 (Original)
+|CH|SCCS-60002|2005-05-20|Gran Turismo 4 (Review Copy)
+|US|SCUS-97436|2006-05-30|Gran Turismo 4 (Beta)
+|US|SCUS-90682|2006-10-18|Gran Turismo 4 (Greatest Hits)
+|US|SCUS-97328|2006-10-18|Gran Turismo 4 (Original, Greatest Hits)

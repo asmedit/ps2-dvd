@@ -4,12 +4,12 @@ defmodule PS2 do
 
   def collection do
       {:ok, bin} = :file.read_file "collection.txt"
-      :lists.foldl(fn x, xcc -> [title,studio|discs] = String.split(x,"\n")
-                 :io.format('~ts: [~ts]~n',[studio,title])
-                 :lists.foldl(fn y, ycc ->
+      :lists.foldl(fn x, xcc ->
+                 [_title,_studio|discs] = String.split(x,"\n")
+#                 :io.format('~ts: [~ts]~n',[studio,title])
+                 :lists.foldl(fn y, _cc ->
                     :io.format('Disc: ~ts~n',[y])
                  end, 0, discs)
-                 :io.format '~n'
                  length(discs) + xcc
          end, 0,  String.split(bin, "\n\n"))
   end
