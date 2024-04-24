@@ -7829,6 +7829,10 @@
 |2004-09-22<sup>NA</sup>
 |✔||✔||✔
 |-
+|''[Gran Turismo 2000]''
+|Polyphony Digital
+|JP|PAPX-90203|PlayStation Festival 2000 (Taikenban)
+|-
 |''[[Gran Turismo 3 A-Spec]]''
 [Polyphony Digital
 |JP|SCEI|SCPS-15009|04/28/01|Gran Turismo 3 A-spec
