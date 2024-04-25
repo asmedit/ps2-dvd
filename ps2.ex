@@ -2,10 +2,10 @@
 
 defmodule PS2 do
 
-  def collection do
-      {:ok, bin} = :file.read_file "collection.txt"
+  def collection(name) do
+      {:ok, bin} = :file.read_file name
       :lists.foldl(fn x, xcc ->
-                 [_title,_studio|discs] = String.split(x,"\n")
+                 [_title|discs] = String.split(x,"\n")
 #                 :io.format('~ts: [~ts]~n',[studio,title])
                  :lists.foldl(fn y, _cc ->
                     :io.format('~ts~n',[y])
@@ -25,5 +25,6 @@ end
 
 case System.argv() do
  _ -> :io.format('Copyright © 2024 Namdak Tonpa. ~n')
-      :io.format('Count: ~p ~n', [PS2.collection])
+#      :io.format('Count: ~p ~n', [PS2.collection "gran-turismo.txt"])
+      :io.format('Count: ~p ~n', [PS2.collection "grand-theft-auto.txt"])
 end
